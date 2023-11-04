@@ -1,3 +1,6 @@
+# Unnecessary Project
+Coolstar's keyboard driver is way better than using AutoHotKeys. Don't use AutoHotKeys. To make brightness keys change the brightness on a Chromebook use this guide: https://github.com/chrultrabook/docs/issues/63
+
 # Change Keyboard Brightness
 ## Basic Usage
 ```ps1
